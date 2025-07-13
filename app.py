@@ -25,3 +25,4 @@ if st.button("Book Appointment"):
         st.success("✅ Appointment booked successfully!")
     else:
         st.warning("Please fill all fields.")
+st.caption("Created by Divisha Gupta | GitHub: @DivishaGupta2008|JAN 2025")
